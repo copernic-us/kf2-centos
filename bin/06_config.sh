@@ -3,8 +3,8 @@
 set -e
 
 # install crudini
-yum -y install epel-release
-yum -y install crudini
+apt -y install epel-release
+apt -y install crudini
 
 # deploy the initial config
 cp -R share/Config ${STEAM_HOME}/
