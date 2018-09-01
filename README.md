@@ -1,3 +1,6 @@
+All credits go to original creator
+
+
 # kf2-centos
 
 For step-by-step guides please refer to:
